@@ -10,7 +10,7 @@ In this lab we're going to walk through monitoring the traffic on a virtual netw
 
 - <b>NetWitness Investigator</b> 
 - <b>Wireshark</b>
-- <b>TCPdumpk</b>
+- <b>TCPdump</b>
 
 
 <h2>Environments Used </h2>
