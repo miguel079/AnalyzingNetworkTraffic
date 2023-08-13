@@ -22,7 +22,7 @@ In this lab we're going to walk through monitoring the traffic on a virtual netw
 
 <p align="center">
 
-The alert script within the tcpdumpcapturefile file:  <br/>
+The alert script within the tcpdump capture file:  <br/>
 <img src="https://i.imgur.com/YKW65MO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
